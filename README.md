@@ -1,4 +1,4 @@
-#Batch d'import des données BDREP
+#Batch d'import des données BDREP pour l'application Geremi
 
 ## 1.	Prérequis : 
 
